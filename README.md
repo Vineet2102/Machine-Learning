@@ -1,4 +1,4 @@
-Hello folks I am Vineet currently a third Year Computer Engineering Student and this is my transition from Web Development to Flutter to finally Data Science and Machine
+Hello folks, I am Vineet currently a third Year Computer Engineering Student and this is my transition from Web Development to Flutter to finally Data Science and Machine
 Learning. I'll be updating this repository on a regular basis and share my learnings with everyone.
 
 # Machine-Learning
